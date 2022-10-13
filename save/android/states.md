@@ -13,7 +13,7 @@ My current statics of **Antimatter Dimensions**, running on my Android Tablet.
 - Extra: r101, r104, r106, r107, r112
 
 ## Challenges
-\* SUM of C: 275.00ms \*
+\* SUM of C: 275.00ms \*  
 \* SUM of IC: 200.00ms \*
 
 ## Infinities
