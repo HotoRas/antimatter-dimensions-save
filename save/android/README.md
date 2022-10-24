@@ -5,7 +5,7 @@ So, this may differ to what you expect to get from Web or PC clients.
 
 ## How to open and apply it?
 
-You can just open the `.sav` file with notepad, edit, GitHub Raw Contents, or whatever you want.  
+You can just open the `.sav` file with notepad, nano, GitHub Raw Contents, or whatever you want.  
 (For Android users, using GitHub Raw Contents is recommended.)  
 (For PC users who're lazy, just open it and drag every content.)  
 Note that this save is NOT OP(reached Endgame). This is for cross-platform gameplay and backup.
@@ -21,6 +21,8 @@ The `.sav` file is the save file. For web version, `.global.sav` file is also pr
 Android savefile has readable begins and ends, so you can also check it through this method.
 
 **NOTE** The savefile may not compatible if your game is not up-to-date or modified.
+
+**NOTE** Android versions can load web version saves. So, some saves don't provide them.
 
 ## States
 
