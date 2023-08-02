@@ -18,7 +18,8 @@ due to the `paste-here notify` char limit.
 ## How can I check if it's compatible?
 
 The `.sav` file is the save file. For web version, `.global.sav` file is also provided.  
-Android savefile has readable begins and ends, so you can also check it through this method.
+> Android savefile begins with `AntimatterDimensionsAndroidSaveFormat` ("This update sucks" update),  
+> and global one with `eyJ` ("This update sucks" update)
 
 **NOTE** The savefile may not compatible if your game is not up-to-date or modified.
 
